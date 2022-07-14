@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d89c01-6fb5-444f-b2e8-671447b6109f" name="Changes" comment="ready1" />
+    <list default="true" id="b1d89c01-6fb5-444f-b2e8-671447b6109f" name="Changes" comment="re">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/jenkinsfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/src/test/java/cbt/ConfigurationReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/src/test/java/cbt/CukesRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/src/test/java/cbt/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/src/test/java/cbt/StepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-project-master/src/test/resources/cbt/simple_demo.feature" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +38,6 @@
   <component name="ProjectId" id="2Bvpwn8zQwUpn3aCwMz3tLkZaTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -48,6 +59,7 @@
       <workItem from="1657801452164" duration="1887000" />
       <workItem from="1657803672584" duration="1257000" />
       <workItem from="1657804943235" duration="2000" />
+      <workItem from="1657806466261" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="ready">
       <created>1657796741676</created>
@@ -84,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657804131247</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="re">
+      <created>1657806600479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657806600479</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +139,7 @@
     <MESSAGE value="ready" />
     <MESSAGE value="read" />
     <MESSAGE value="ready1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready1" />
+    <MESSAGE value="re" />
+    <option name="LAST_COMMIT_MESSAGE" value="re" />
   </component>
 </project>
